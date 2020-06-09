@@ -1,0 +1,36 @@
+.example1{
+    width: 400px;
+    height: 200px;
+    background: green;
+    top: 0px;
+    position: relative;
+}
+.example2{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+
+}
+h5{
+    padding-bottom: 1000px;
+}
+p{
+    background: red;
+    top: 0;
+    position: sticky;
+}
+h4{
+    right: 0;
+    bottom: 0;
+    position: fixed;
+}
+body{
+    background: darkgrey;
+}

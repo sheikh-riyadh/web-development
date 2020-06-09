@@ -1,0 +1,17 @@
+table,th,tr,td{
+    border: 1px solid;
+    text-align: justify;
+    border-collapse: collapse;
+    padding: 10px;
+    background-position: top center;
+}
+.table-main{
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    margin: auto;
+
+}

@@ -1,0 +1,12 @@
+.example{
+width: 300px;
+height: 300px;
+border: 1px solid black;
+overflow: auto;
+
+/*we have more attribute of overflow like
+overflow : hiden
+overflow : auto
+overflow : scroll*/
+
+}

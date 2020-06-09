@@ -1,0 +1,13 @@
+body{
+ 
+    /*this attribute work find image */
+    background: url(../img/buterfly.jpg) no-repeat;
+    /*this attribute work our image not again and again repeat*
+    this attribute have actually more value like 
+    no-repeat,
+    repeat-x
+    repeat-y
+    */
+  
+
+}

@@ -1,0 +1,7 @@
+ol{
+    /* list attribute actually work list relatade list attribute have more attribute 
+    like list-style-type: , list-style: , list-style-image: 
+    this if we hop all value write inside one attribute then we use list-style:  */
+    list-style: square;
+    
+}

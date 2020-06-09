@@ -1,0 +1,13 @@
+.example1{
+    width: 200px;
+    height: auto;
+    float: right;
+}
+.example2{
+    width: 200px;
+    height: auto;
+    float: left;
+}
+p{
+    text-align: justify;
+}
